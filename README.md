@@ -1,24 +1,24 @@
 # NeuraX Landing Page
 
-Esta es la landing page de NeuraX, un proyecto diseñado para presentar y promocionar los servicios y valores de NeuraX de forma atractiva y moderna.
+This is the landing page for NeuraX, a project designed to showcase and promote NeuraX's services and values in a modern and visually appealing way.
 
-## Descripción
+## Description
 
-NeuraX es una plataforma innovadora orientada a una Agencia de Inteligencia Artificial y automatización de procesos y tareas repetitivas. Esta landing page tiene como objetivo captar la atención de los visitantes, explicar los beneficios de NeuraX y facilitar el contacto o la conversión de usuarios interesados.
+NeuraX is an innovative platform focused on AI-based solutions and the automation of repetitive business processes and tasks. This landing page aims to capture visitors' attention, clearly communicate NeuraX's value proposition, and drive user engagement or conversion.
 
-## Características principales
+## Key Features
 
-- Diseño responsivo y moderno.
-- Secciones informativas sobre los servicios/productos de NeuraX.
-- Integración con formularios de contacto.
-- Animaciones y elementos visuales atractivos.
-- Optimización para SEO y redes sociales.
+- Responsive and modern design
+- Informative sections about NeuraX's services and offerings
+- Integrated contact form
+- Attractive animations and visual elements
+- SEO and social media optimization
 
-## Tecnologías utilizadas
+## Technologies Used
 
-- [Ejemplo: React, Next.js, Tailwind CSS, etc.]
-- [Enumera las tecnologías principales que utilizaste en el desarrollo]
+- [Example: React, Next.js, Tailwind CSS, etc.]
+- [List the main technologies used in the development]
 
-## Contribuciones
+## Contributions
 
-Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para sugerir cambios o mejoras.
+Contributions are welcome! Please open an issue or pull request to suggest improvements or propose new features.
