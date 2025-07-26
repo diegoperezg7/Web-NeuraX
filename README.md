@@ -1,4 +1,4 @@
-# NeuraX Landing Page
+# Landing page for NeuraX – AI & automation solutions for businesses
 
 This is the landing page for NeuraX, a project designed to showcase and promote NeuraX's services and values in a modern and visually appealing way.
 
